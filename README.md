@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Jonshea!!!
+### Hey 👋🏽, I'm Jonshea
 
 <a href="https://twitter.com/yuurierusan">
   <img align="left" alt="Jonshea Nutson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
