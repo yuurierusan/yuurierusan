@@ -23,11 +23,11 @@ I'm Jonshea Nutson, a Software Engineer 🚀 from Dallas, Texas. 🙍🏽‍♂�
 **Talking about Personal Stuffs:**
 
 -   👨🏽‍💻 I’m currently working on [Top G Auto](https://github.com/abhisheknaiidu/A-POP);
--   🌱 I’m currently learning React.js, M.E.R.N, and C.R.U.D;
+-   🌱 I’m currently learning M.E.R.N and C.R.U.D;
 -   🤔 I’m looking for help with Data Structures and Algorithms 😭;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: jonsheanutson@gmail.com;
--   📝[Resume](TBA)
+-   📝[Resume](TBA) Coming Soon!
 
 **Languages and Tools:**
 
