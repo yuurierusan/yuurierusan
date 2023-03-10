@@ -1,33 +1,25 @@
-### Hey 👋🏽, I'm Jonshea
+<h1 align="center">Hi 👋, I'm Jonshea Nutson</h1>
+<h3 align="center">A laid-back full-stack Dev from DTX</h3>
 
-<a href="https://twitter.com/yuurierusan">
-  <img align="left" alt="Jonshea Nutson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jonshean/">
-  <img align="left" alt="Jonshea's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/yuurierusan/">
-  <img align="left" alt="Jonshea's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/yuurieru/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuurierusan&label=Profile%20views&color=0e75b6&style=flat" alt="yuurierusan" /> </p>
 
-<br />
-<br />
+<p align="left"> <a href="https://twitter.com/yuurierusan" target="blank"><img src="https://img.shields.io/twitter/follow/yuurierusan?logo=twitter&style=for-the-badge" alt="yuurierusan" /></a> </p>
 
-I'm Jonshea Nutson, a Software Engineer 🚀 from Dallas, Texas. 🙍🏽‍♂️ [@yuurierusan](https://github.com/yuurierusan) 👨🏽‍💻 Beside's programming, I enjoy all things anime/manga/light novel, playing video games, and modifying my car.
+-   🔭 I’m currently working on [Portfolio](https://github.com/yuurierusan/portfolio-website)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/3e/05/74/3e05748e85c7646fbfeca81f3607ac5b.gif" />
-  
-**Talking about Personal Stuffs:**
+-   🌱 I’m currently learning **JSON Web Tokens & Authentication**
 
--   👨🏽‍💻 I’m currently working on [Top G Auto](https://github.com/abhisheknaiidu/A-POP);
--   🌱 I’m currently learning M.E.R.N and C.R.U.D;
--   🤔 I’m looking for help with Data Structures and Algorithms 😭;
--   💬 Ask me about anything, I am happy to help;
--   📫 How to reach me: jonsheanutson@gmail.com;
--   📝[Resume](TBA) Coming Soon!
+-   👯 I’m looking to collaborate on [Stockwise](https://github.com/mannyaalonso/stockwise)
+
+-   🤝 I’m looking for help with [Email Only Authentication](Project Link Coming Soon)
+
+-   👨‍💻 All of my projects are available at [Portfolio Coming Soon](Portfolio Coming Soon)
+
+-   💬 Ask me about **Vite.JS & Tailwind CSS Study**
+
+-   📫 How to reach me **jonsheanutson@gmail.com**
+
+-   📄 Know about my experiences [Resume Coming Soon](Resume Coming Soon)
 
 -   ⚡ Fun fact **I love anime & cars.**
 
